@@ -221,3 +221,8 @@ body {
     .summary-table th, .summary-table td { display: block; width: 100%; }
     .summary-table th { background-color: #1e3a8a; color: #ffffff; }
 }
+/* ロゴのリンクを元の綺麗な色（紺色）にして下線を消す設定 */
+.logo a {
+    text-decoration: none;
+    color: inherit; /* 親要素の紺色をそのまま引き継ぎます */
+}
