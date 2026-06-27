@@ -61,7 +61,7 @@ body {
     height: 60vh;
     min-height: 400px;
     /* 背景画像（imagesフォルダにhero.jpgを入れる、無ければ紺色のグラデーションになります） */
-    background: url('../images/hero.jpg') no-repeat center center/cover;
+    background: url('../img/hero.jpg') no-repeat center center/cover;
     background-color: #0f172a; 
     display: flex;
     align-items: center;
